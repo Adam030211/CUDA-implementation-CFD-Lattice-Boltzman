@@ -1,4 +1,7 @@
 # Python LBM
+![L100_it5000](https://github.com/user-attachments/assets/7cd38a8e-9c11-457e-b204-7911dd9befb4)
+
+![L1000_it5000](https://github.com/user-attachments/assets/877bf3f5-6c7c-40b0-bf80-a7bc38afb07d)
 
 ## Requirements
 
